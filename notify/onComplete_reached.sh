@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 function usage() {
     echo `basename $0` "%a %p %r %P %l %i 'status_type'"
